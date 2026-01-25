@@ -10,6 +10,12 @@ class GestureTrainer {
                 type: 'OPEN_PALM'
             },
             {
+                name: 'Open Palm22',
+                emoji: '✋',
+                description: 'Show your open hand with fingers extended',
+                type: 'OPEN_PALM'
+            },
+            {
                 name: 'Closed Fist',
                 emoji: '✊',
                 description: 'Make a fist with all fingers curled',
