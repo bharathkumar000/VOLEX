@@ -9,7 +9,7 @@ class GestureTrainer {
                 type: 'OPEN_PALM'
             },
             {
-                name: 'Open Palm1',
+                name: 'Open palm2',
                 emoji: '✋',
                 description: 'Show your open hand with all fingers extended',
                 type: 'OPEN_PALM'
