@@ -3,6 +3,7 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import GestureTrainer from './gesture-trainer.js';
 
+
 // --- HAND TRACKING SETUP ---
 let handLandmarker = undefined;
 let runningMode = "VIDEO";
