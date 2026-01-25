@@ -1,6 +1,7 @@
 // Gesture Training System
 class GestureTrainer {
     constructor() {
+        
         this.gestures = [
             {
                 name: 'Open Palm',
